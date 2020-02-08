@@ -1,5 +1,8 @@
 _repo: Traditions-of-Edinburgh_61314
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61314-h/images/cover.jpg
 creator:
   author:
     agent_name: Chambers, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61314#Traditions-of-Edinburgh
 gutenberg_issued: '2020-02-04'
 gutenberg_type: Text
 identifiers:
